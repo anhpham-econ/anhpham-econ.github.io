@@ -4,6 +4,8 @@ Anh has been developing research interests in the areas of [housing](research.md
 
 Anh's current research activities are in understanding how social and economic public policy can be enhanced by evidence generated from the application of novel analytical strategies to diverse data. She has expertise in econometric modelling using nationally representative household-based longitudinal surveys (e.g. [HILDA](https://melbourneinstitute.unimelb.edu.au/hilda), [IFLS](https://www.rand.org/well-being/social-and-behavioral-policy/data/FLS/IFLS.html)) and large-scale administrative datasets (e.g. [PIA](https://www.dss.gov.au/review-of-australias-welfare-system/australian-priority-investment-approach-to-welfare))
 
+My contact info can be found at the bottom of the page.
+
 # Research opportunities
 If you are undergraduate students and interested in pursuing research studies in the near future, you can apply for the Adelaide Summer Research Scholarship (ASRS) program. Possible projects can be found [here](https://ecms.adelaide.edu.au/news/list/2019/07/08/adelaide-summer-research-scholarships-applications-now-open?fbclid=IwAR1ndWKVIT9VGjX_XaXLM8Mc6sL0ES64MXqjBBBkx5UMJ6_DvZLVqTB_8gM) and [here](https://www.adelaide.edu.au/professions/students/summer-research-scholarships). Deadline **20 September 2019**
 
