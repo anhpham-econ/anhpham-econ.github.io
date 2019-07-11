@@ -9,4 +9,4 @@ url: https://anhpham-econ.github.io/
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: time-machine
