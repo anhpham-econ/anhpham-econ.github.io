@@ -40,8 +40,9 @@ title: Research
 - **Abstract**: We construct a two-way fixed effect quantile regression estimator by applying the one-way fixed effect quantile regression technique of Canay (2011). We explore the Monte Carlo properties of this estimator under the assumption that the data generating process may contain a one- or two-way fixed effect. We apply this estimator to a panel data with country and year fixed effects to see if trade cost, as proxied by the Baltic Dry Index, affects the trade and income of least developed countries heterogeneously.
 
 "Does the Rice for Poor subsidy reduce child marriage?", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), 10/2018.
-- **Abstract**: According to UNICEF, reducing child marriage is seen as one of the essentials to women’s empowerment and wellbeing, ending the intergenerational cycle of poverty and rights violation. In this paper, we study whether a food subsidy (Raskin) reduces child marriage occurrence using a panel life survey from Indonesia. Modelling treatment assignment with Coarsened Exact Matching and Diffs-in-Diffs, we show that the unconditional rice subsidy significantly reduces the likelihood of marrying as a child.
+- **Abstract**: Reducing child marriage is seen as one of the essentials to women’s empowerment and wellbeing, ending the intergenerational cycle of poverty and rights violation. In this paper, we use a longitudinal household survey from Indonesia to study whether a food subsidy (Raskin) reduces child marriage. Modelling treatment assignment with Coarsened Exact Matching and Differences-in-Differences, we show that the unconditional rice subsidy significantly reduces the likelihood of marrying as a child.
 - **Preliminary Draft**: [Here](https://ies.keio.ac.jp/upload/20181026appliedpaper-1.pdf)
+- **Ungated working paper**: [Here](https://ideas.repec.org/p/adl/wpaper/2019-05.html)
 
 # Health Economics
 "Population Diversity, Trust, and the Transmission of HIV/AIDS in Sub-Saharan Africa", with Pide Lun and [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
