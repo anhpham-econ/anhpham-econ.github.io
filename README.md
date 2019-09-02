@@ -11,24 +11,24 @@ If you are undergraduate students and interested in pursuing research studies in
 
 # News
 **2019**
-- *August-2019*: my paper, "New evidence on mental health and housing affordability in cities: A quantile regression approach", with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://findanexpert.unimelb.edu.au/display/person99174) is accepted for publication at Cities.
-- *May-2019*: my paper, "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home) is accepted for publication at World Economy.
-- *April-2019*: my paper, "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova) is published [online](https://www.sciencedirect.com/science/article/pii/S0165176519301387) at *Economics Letters*.
-- *February-2019*: won the [2019 Early Career Researcher Fellowship](https://www.adelaide.edu.au/professions/intranet/news/list/2019/02/26/faculty-research-funding-scheme-results) (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel)).
+- *August*: my paper, "New evidence on mental health and housing affordability in cities: A quantile regression approach", with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://findanexpert.unimelb.edu.au/display/person99174) is accepted for publication at Cities.
+- *May*: my paper, "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home) is accepted for publication at World Economy.
+- *April*: my paper, "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova) is published [online](https://www.sciencedirect.com/science/article/pii/S0165176519301387) at *Economics Letters*.
+- *February*: won the [2019 Early Career Researcher Fellowship](https://www.adelaide.edu.au/professions/intranet/news/list/2019/02/26/faculty-research-funding-scheme-results) (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel)).
 
 **2018**
-- *June-2018*: appointed as a Research Fellow at [Healthy Cities Research Group](https://architecture.adelaide.edu.au/research/housing-and-healthy-cities).
+- *June*: appointed as a Research Fellow at [Healthy Cities Research Group](https://architecture.adelaide.edu.au/research/housing-and-healthy-cities).
 
 **2017**
-- *December-2017*: presented at the Aim for the Stars, School of Economics, University of Adelaide.
-- *April-2017*: presented at the 8th Australasian Workshop on Econometrics and Health Economics.
+- *December*: presented at the Aim for the Stars, School of Economics, University of Adelaide.
+- *April*: presented at the 8th Australasian Workshop on Econometrics and Health Economics.
 
 **2016**
-- *December-2016*: presented at the Aim for the Stars, School of Economics, University of Adelaide.
-- *September-2016*: was a Mace Bearer at my [Graduation Ceremony](https://www.youtube.com/watch?v=hilxLwIgNo0&list=PLrj2iJKdUdbwgO0RgYgUeFq0S8u0OX167&index=6&t=0s).
-- *April-2016*: awarded Dean’s Commendation for Doctoral Thesis Excellence. 
-- *February-2016*: apointed as a visiting lecturer at [School of Economics](https://economics.adelaide.edu.au/).
+- *December*: presented at the Aim for the Stars, School of Economics, University of Adelaide.
+- *September*: was a Mace Bearer at my [Graduation Ceremony](https://www.youtube.com/watch?v=hilxLwIgNo0&list=PLrj2iJKdUdbwgO0RgYgUeFq0S8u0OX167&index=6&t=0s).
+- *April*: awarded Dean’s Commendation for Doctoral Thesis Excellence. 
+- *February*: apointed as a visiting lecturer at [School of Economics](https://economics.adelaide.edu.au/).
 
 **2015**
-- *September-2016*: was one of the [3MT 2015 Finalists](https://www.youtube.com/watch?v=e5ZbZj-_Oys&list=PLrj2iJKdUdbz2yAOAAtkcp2NBLhWNsw7F&index=7).
-- *February-2016*: presented at the 25th Australian & New Zealand Econometric Study Group (ANZESG) Meeting, Brisbane, Australia.
+- *September*: was one of the [3MT 2015 Finalists](https://www.youtube.com/watch?v=e5ZbZj-_Oys&list=PLrj2iJKdUdbz2yAOAAtkcp2NBLhWNsw7F&index=7).
+- *February*: presented at the 25th Australian & New Zealand Econometric Study Group (ANZESG) Meeting, Brisbane, Australia.
