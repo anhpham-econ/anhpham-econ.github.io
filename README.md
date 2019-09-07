@@ -11,7 +11,7 @@ If you are undergraduate students and interested in pursuing research studies in
 
 # News
 **2019**
-- *August*: my paper, "New evidence on mental health and housing affordability in cities: A quantile regression approach", (with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://findanexpert.unimelb.edu.au/display/person99174)) is accepted for publication at Cities.
+- *September*: my paper, "New evidence on mental health and housing affordability in cities: A quantile regression approach", is published [online](https://www.sciencedirect.com/science/article/pii/S0264275119303804?dgcid=coauthor) (with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://findanexpert.unimelb.edu.au/display/person99174)) *Cities*.
 - *May*: my paper, "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", (with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)) is accepted for publication at World Economy.
 - *April*: my paper, "Natural Disasters and Mental Health: A Quantile Approach", (with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova)) is published [online](https://www.sciencedirect.com/science/article/pii/S0165176519301387) at *Economics Letters*.
 - *February*: won the 2019 Early Career Researcher Fellowship (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel)).
