@@ -23,7 +23,7 @@ title: Research
 
 
 # International Trade and Development
-"Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), accepted, *World Economy*, 05/2019.
+["Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach"](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.12871), with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), forthcoming, *World Economy*, 05/2019.
 - **Abstract**: We estimate the impact of shipping cost on development for landlocked developing countries (LLDCs). Since container trade is important to them, we construct a country-specific measure of shipping cost, called *HarpexCost*, which combines the global cost of container shipping with information on how exposed to container shipping each LLDC is. We employ the Common Correlated Effects (CCE) estimator of Pesaran (2006) to first estimate the impact of *HarpexCost* on the LLDCs' development, and then recover the actual impact of shipping cost from these estimates. Overall, we observe that shipping cost has large negative effects on the LLDCs. Building upon these results, we provide new estimates on the cost of landlockedness and how trade benefits their development.
 
 "Do Exports Affect Urbanization in Sub-Saharan Africa? Evidence From The Baltic Dry Index And Panel Regressions With Cross-Sectional Dependence", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
