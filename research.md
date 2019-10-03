@@ -17,7 +17,7 @@ title: Research
 - **Ungated working paper**: [Here](papers/Disaster_MentalHealth.pdf).
 - **Early working paper**: [Here](https://ideas.repec.org/p/adl/wpaper/2018-13.html)
 
-*How does household residential instability influence child health outcomes? A quantile analysis*, with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://www.findanexpert.unimelb.edu.au/display/person99174), under review.
+*How does household residential instability influence child health outcomes? A quantile analysis*, with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://www.findanexpert.unimelb.edu.au/display/person99174), under review, 09/2019.
 
 *More than just climate*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer, Research in progress.
 
@@ -39,7 +39,7 @@ title: Research
 - **Abstract**: We study how inequality, democracy and economic development affect institutions in a dynamic panel model using data for 78 countries from 1984 to 2006. We suggest a model that assumes the sluggish adjustment of institutional quality and the interplay between the key explanatory variables. We find that democracy has a non‐linear effect on government stability and military involvement in politics. This effect depends on inequality and GDP per capita. Inequality matters for law and order and has a non‐linear effect as well. However, the results for wealth effect are mixed.
 
 
-"Panel Data Quantile Regression with Two-Way Fixed Effects",  with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), under review, 03/2019.
+"Panel Data Quantile Regression with Two-Way Fixed Effects",  with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), under review, 07/2019.
 - **Abstract**: We construct a two-way fixed effect quantile regression estimator by applying the one-way fixed effect quantile regression technique of Canay (2011). We explore the Monte Carlo properties of this estimator under the assumption that the data generating process may contain a one- or two-way fixed effect. We apply this estimator to a panel data with country and year fixed effects to see if trade cost, as proxied by the Baltic Dry Index, affects the trade and income of least developed countries heterogeneously.
 
 "Does the Rice for Poor subsidy reduce child marriage?", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), 10/2018.
