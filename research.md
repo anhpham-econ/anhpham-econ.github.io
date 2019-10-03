@@ -17,6 +17,8 @@ title: Research
 - **Ungated working paper**: [Here](papers/Disaster_MentalHealth.pdf).
 - **Early working paper**: [Here](https://ideas.repec.org/p/adl/wpaper/2018-13.html)
 
+*How does household residential instability influence child health outcomes? A quantile analysis*, with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://www.findanexpert.unimelb.edu.au/display/person99174), under review.
+
 *More than just climate*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer, Research in progress.
 
 *Dynamics of household demand for renewable energy infrastructure*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), Research in progress.
