@@ -12,6 +12,7 @@ Master of Economics, University of Adelaide (2011-2012)
 
 # Training
 MOOC [Cartography](papers/Cartography._Certificate_05162019.pdf) (Esri online course): hands-on exercises using ArcGIS Pro to make better maps (2019)
+
 MOOC [Going Places with Spatial Analysis](papers/Going Places with Spatial Analysis_Certificate_10102019.pdf) (Esri online course): learn how the special capabilities of spatial data analysis provide deeper understanding (2019)
 
 # Skills
