@@ -4,7 +4,7 @@ Anh has been developing research interests in the areas of [housing](research.md
 
 Anh's current research activities are in understanding how social and economic public policy can be enhanced by evidence generated from the application of novel analytical strategies to diverse data. She has expertise in econometric modelling using nationally representative household-based longitudinal surveys (e.g. [HILDA](https://melbourneinstitute.unimelb.edu.au/hilda), [IFLS](https://www.rand.org/well-being/social-and-behavioral-policy/data/FLS/IFLS.html)) and large-scale administrative datasets (e.g. [PIA](https://www.dss.gov.au/review-of-australias-welfare-system/australian-priority-investment-approach-to-welfare))
 
-My contact info can be found at the bottom of the page.
+Here is my current [CV](papers/Anh_Pham_CV.pdf) and my [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=C71OJdIAAAAJ) page. 
 
 # Research opportunities
 - *The 2020 Adelaide Summer Research Scholarship (ASRS) program* is coming soon!!!
