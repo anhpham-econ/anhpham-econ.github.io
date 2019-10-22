@@ -13,7 +13,7 @@ Here is my current [CV](papers/Anh_Pham_CV.pdf) and my [Google Scholar](https://
 
 # News
 **2019**
-- *Oct*: my paper, "Cold housing: evidence, risk and vulnerability", (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel),  [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer), is conditionally accepted at Housing Studies.
+- *Oct*: my paper, "Cold housing: evidence, risk and vulnerability", (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel),  [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer), is accepted at Housing Studies.
 - *Oct*: my paper, "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", (with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)) is published [online](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.12871) on 1 October, 2019 at World Economy.
 - *September*: my paper, "New evidence on mental health and housing affordability in cities: A quantile regression approach", is published [online](https://www.sciencedirect.com/science/article/pii/S0264275119303804?dgcid=coauthor) (with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://findanexpert.unimelb.edu.au/display/person99174)) *Cities*. **Free access by October 26, 2019.**
 - *May*: my paper, "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", (with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)) is accepted for publication at World Economy.
