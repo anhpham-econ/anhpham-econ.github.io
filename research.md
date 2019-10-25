@@ -6,6 +6,10 @@ title: Research
 *Ungated working paper versions of my published papers can be downloaded, where available*
 
 # Housing
+
+"How does household residential instability influence child health outcomes? A quantile analysis", with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://www.findanexpert.unimelb.edu.au/display/person99174), *International Journal of Environmental Research and Public Health* (special issue), accepted, 10/2019.
+- **Abstract**: At the core of housing and welfare research is a premise that stable residential environments are important to children’s health and development. The relationship between housing stability and health outcomes for children is however complex – stable housing situations are sometimes associated with poorer health outcomes, and some children may be more or less resilient to residential instability. The Longitudinal Study of Australian Children (LSAC) dataset enables us to longitudinally follow the housing and health of more than 10,000 children and their families. We employ a quantile analysis technique, a currently underutilized tool for testing associations across the distribution of an outcome, to test whether exposure to housing instability has differential impact on children’s health dependent on their initial health status. Our findings suggest that health outcomes of residential instability are highly dependent on children’s initial health status.
+
 "Cold housing: evidence, risk and vulnerability", with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer, *Housing Studies*, accepted, 10/2019.
 - **Abstract**: Cold housing is not widely recognised as a problem that occurs in mild-climate countries like Australia. But emerging evidence suggests that it is an important, albeit under-acknowledged, problem that may contribute to high rates of ill health and mortality during the winter months. We bring together two historically important theoretical developments in order to better understand the social and economic distribution of cold housing. Drawing on nationally representative data from the Household, Income and Labour Dynamics in Australia survey between 2001 and 2016, we find that the characteristics of households unable to adequately heat their homes strongly reflects known patterns of inequality across, for example, tenure, employment and health, but that there are also more unexpected trends in age and income. Critically, our analyses demonstrate that individuals’ vulnerability to cold housing risk can be anticipated, which has important implications for public policy and community-based interventions. 
 
@@ -17,7 +21,6 @@ title: Research
 - **Ungated working paper**: [Here](papers/Disaster_MentalHealth.pdf).
 - **Early working paper**: [Here](https://ideas.repec.org/p/adl/wpaper/2018-13.html)
 
-*How does household residential instability influence child health outcomes? A quantile analysis*, with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://www.findanexpert.unimelb.edu.au/display/person99174), under review, 09/2019.
 
 *More than just climate*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer, Research in progress.
 
