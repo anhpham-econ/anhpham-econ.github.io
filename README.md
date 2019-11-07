@@ -13,6 +13,7 @@ Here is my current [CV](papers/Anh_Pham_CV.pdf) and my [Google Scholar](https://
 
 # News
 **2019**
+- *November*: my paper, "Cold housing: evidence, risk and vulnerability", (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel),  [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer), is **freely accessed** at [Housing Studies](https://www.tandfonline.com/doi/full/10.1080/02673037.2019.1686130).
 - *October*: my paper, "How does household residential instability influence child health outcomes? A quantile analysis", (with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://www.findanexpert.unimelb.edu.au/display/person99174)), is accepted at International Journal of Environmental Research and Public Health (special issue).
 - *October*: my paper, "Cold housing: evidence, risk and vulnerability", (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel),  [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer), is accepted at Housing Studies.
 - *October*: my paper, "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", (with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)) is published [online](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.12871) on 1 October, 2019 at World Economy.
