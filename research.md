@@ -18,7 +18,7 @@ title: Research
 
 ["Natural Disasters and Mental Health: A Quantile Approach"](https://www.sciencedirect.com/science/article/pii/S0165176519301387), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova), *Economics Letters*, 180, pp 62-66, 2019. 
 - **Abstract**: This article investigates heterogeneity in the effect of experiencing natural disasters on mental health. Using Australian longitudinal data, we find that home owners generally show a reduction in mental health score after a disaster. There is a strong negative effect in the lowest two quantiles of the distribution for non-owners.
-- **Ungated working paper**: [Here](papers/Disaster_MentalHealth.pdf).
+- **Ungated working paper**: [Here](papers/Disaster_MentalHealth.pdf)
 - **Early working paper**: [Here](https://ideas.repec.org/p/adl/wpaper/2018-13.html)
 
 
@@ -56,6 +56,6 @@ title: Research
 
 *Income-based mandates on the demand for private hospital insurance and its dynamics*, with [Terence Cheng](https://terencechaicheng.wordpress.com/), Thomas Buchmueller and Kevin Staub. 
 - **Abstract**: We examine the effect of an income-based mandate on the demand for private hospital insurance and its dynamics in Australia. The mandate, known as the Medicare Levy Surcharge (MLS), is a levy on taxable income that applies to high income individuals who choose not to buy private hospital insurance. Our identification strategy exploits changes in MLS liability arising from both year-to-year income fluctuations, and a reform where income thresholds were increased significantly. Using data from the Household, Income and Labour Dynamics in Australia longitudinal survey, we estimate dynamic panel data models that account for persistence in the decision to purchase insurance stemming from unobserved heterogeneity and state dependence. Our results indicate that being subject to the MLS penalty in a given year increases the probability of purchasing private hospital insurance by between 2 to 3 percent in that year. If subject to the penalty permanently, this probability grows further over the following years, reaching 13 percent after a decade. We also find evidence of a marked asymmetric effect of the MLS, where the effect of the penalty is about twice as large for individuals becoming liable compared with those going from being liable to not being liable. Our results further show that the mandate has a larger effect on individuals who are younger.
-- **Ungated working paper**: [Here](papers/bcps_dynamics_2019_december17.pdf).
+- **Ungated working paper**: [Here](papers/bcps_dynamics_2019_december17.pdf)
 
 *Happiness and Refugees Settlement*, with [Firmin Doko Tchatoka](https://researchers.adelaide.edu.au/profile/firmin.dokotchatoka) and [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova), Research in progress.
