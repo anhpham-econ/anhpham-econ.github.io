@@ -12,6 +12,7 @@ Here is her [CV](papers/Anh_Pham_CV.pdf) and [Google Scholar](https://scholar.go
 # News
 **2020**
 - *May*: my paper, "Do Exports Affect Urbanization in Sub-Saharan Africa? Evidence from the Baltic Dry Index and Panel Regressions with Cross-Sectional Dependence", (with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)) is conditionally accepted at Journal of African Economies.
+
 **2019**
 - *December*: presented at [SOAC 2019](http://soac2019.com.au/), University of Western Australia.
 - *November*: my paper, "Cold housing: evidence, risk and vulnerability", (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel),  [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer), is **freely accessed** at [Housing Studies](https://www.tandfonline.com/doi/full/10.1080/02673037.2019.1686130).
