@@ -2,7 +2,7 @@
 
 Anh has been developing research interests in the areas of [housing](research.md#housing), [international trade and development](research.md#international-trade-and-development), [panel data applications](research.md#panel-data-applications) and [health economics](research.md#health-economics) after completing a [PhD in Economics](education.md#post-graduate-degrees) in 2016. 
 
-Here is her [CV](papers/Anh_Pham_CV.pdf) and [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=C71OJdIAAAAJ) page. 
+Here is her [CV](papers/Anh_Pham_CV.pdf) and [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=C71OJdIAAAAJ) page. For my recent working papers and publications, please see [Research](research.md). If you would like a copy of the paper, please drop me an email at ngoc.t.pham@adelaide.edu.au. 
 
 # Research opportunities
 - *The 2020 Adelaide Summer Research Scholarship (ASRS) program* is coming soon!!!
