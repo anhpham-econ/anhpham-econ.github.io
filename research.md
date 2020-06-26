@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-*Ungated working paper versions of my published papers can be downloaded, where available*
+*Ungated working paper versions of my published papers can be downloaded, where available. If you would like a copy of the paper, please drop Anh an email at ngoc.t.pham@adelaide.edu.au.*
 
 # Housing
 
