@@ -11,6 +11,7 @@ Here is her [CV](papers/Anh_Pham_CV.pdf) and [Google Scholar](https://scholar.go
 
 # News
 **2020**
+- *August*: my paper, ["Do Exports Affect Urbanization in Sub-Saharan Africa? Evidence from the Baltic Dry Index and Panel Regressions with Cross-Sectional Dependence"](https://academic.oup.com/jae/advance-article/doi/10.1093/jafeco/ejaa005/5885050?guestAccessKey=8aa9bd84-f0b5-4b55-b364-71e5d25d6465), (with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)) is published online at Journal of African Economies. The paper is currently **FREE ACCESS**
 - *June*: my paper, "Do Exports Affect Urbanization in Sub-Saharan Africa? Evidence from the Baltic Dry Index and Panel Regressions with Cross-Sectional Dependence", (with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)) is accepted at Journal of African Economies.
 
 **2019**
