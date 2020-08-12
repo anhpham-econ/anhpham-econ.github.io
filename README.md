@@ -5,7 +5,7 @@ Anh has expertise in econometric modelling using nationally representative house
 Here is her [CV](papers/Anh_Pham_CV.pdf) and [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=C71OJdIAAAAJ) page. For recent working papers and publications, please see [Research](research.md). If you would like a copy of the paper, please drop Anh an email at ngoc.t.pham@adelaide.edu.au. 
 
 # Research opportunities
-- *The 2020 Adelaide Summer Research Scholarship (ASRS) program* is coming soon!!!
+- *The 2020 Adelaide Summer Research Scholarship (ASRS) program* is now opening for [applicantions](https://scholarships.adelaide.edu.au/Scholarships/undergraduate/all-faculties/adelaide-summer-research-scholarships). The deadline is 18 September 2020.
 
 - *The 2019 Adelaide Summer Research Scholarship (ASRS) program* **deadline had passed**. If you are undergraduate students and interested in pursuing research studies in the near future, you can apply for the 2019 Adelaide Summer Research Scholarship (ASRS) program. Possible projects can be found [here](https://ecms.adelaide.edu.au/news/list/2019/07/08/adelaide-summer-research-scholarships-applications-now-open?fbclid=IwAR1ndWKVIT9VGjX_XaXLM8Mc6sL0ES64MXqjBBBkx5UMJ6_DvZLVqTB_8gM) and [here](https://www.adelaide.edu.au/professions/students/summer-research-scholarships). Deadline 20 September 2019.
 
