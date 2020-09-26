@@ -2,7 +2,7 @@
 
 Anh has expertise in econometric modelling using nationally representative household-based longitudinal surveys and large-scale administrative datasets. Prior to joining the Healthy Cities Group, she was a [visiting lecturer](teaching.md) at the [School of Economics](https://economics.adelaide.edu.au/) at University of Adelaide after completing a [PhD in Economics](education.md#post-graduate-degrees) in 2016. 
 
-Here is her [CV](papers/Anh_Pham_CV.pdf) and [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=C71OJdIAAAAJ) page. For recent working papers and publications, please see [Research](research.md). If you would like a copy of the paper, please drop Anh an email at ngoc.t.pham@adelaide.edu.au. 
+Here is her [CV](papers/Anh_Pham_CV.pdf) and [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=C71OJdIAAAAJ) page. For recent working papers and publications, please see [Research](research.md). If you would like a copy of the paper, please drop Anh an email at anhpham.econ@gmail.com. 
 
 # Research opportunities
 - *The 2020 Adelaide Summer Research Scholarship (ASRS) program* is now opening for [applications](https://scholarships.adelaide.edu.au/Scholarships/undergraduate/all-faculties/adelaide-summer-research-scholarships). The deadline is 18 September 2020.
